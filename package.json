@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Ibravk.github.io/react-quizz-app",
+  "homepage": "https://Ibravk.github.io/reactquizz-app",
   "name": "my-react-quizz",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview", 
-    "deploy": "gh-pages-d build"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "he": "^1.2.0",
